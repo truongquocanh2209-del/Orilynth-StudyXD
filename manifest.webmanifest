@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "Orilynth StudyOS",
+  "short_name": "Orilynth",
+  "description": "Không gian học tập cá nhân để tập trung, viết, ôn tập và theo dõi tiến bộ.",
+  "lang": "vi",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0d1120",
+  "theme_color": "#0d1120",
+  "icons": [
+    {
+      "src": "./orilynth-mark.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
